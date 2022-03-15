@@ -1,0 +1,7 @@
+<templateSet group="felix">
+  <template name="trc" value=" try {&#10;        } catch (Exception e) {&#10;&#10;        }" description="trc" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
