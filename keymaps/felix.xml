@@ -29,6 +29,9 @@
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -46,6 +49,7 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="GotoRelated" />
+  <action id="GotoSuperMethod" />
   <action id="GuiDesigner.Duplicate" />
   <action id="Jdbc.OpenEditor.Data">
     <keyboard-shortcut first-keystroke="f4" />
@@ -114,5 +118,6 @@
   <action id="Vcs.Log.Refresh" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
   <action id="runShellFileAction" />
 </keymap>
