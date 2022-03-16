@@ -29,6 +29,7 @@
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
+  <action id="EditorToggleCase" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
@@ -98,6 +99,7 @@
   <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
   <action id="ServiceView.GroupByContributor" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
@@ -117,7 +119,12 @@
   <action id="UsageGrouping.UsageType" />
   <action id="Vcs.Log.Refresh" />
   <action id="XDebugger.CopyWatch" />
+  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
   <action id="openAssertEqualsDiff" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.MarkdownCreateLinkAction" />
   <action id="runShellFileAction" />
 </keymap>
