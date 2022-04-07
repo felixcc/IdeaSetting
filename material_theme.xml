@@ -6,6 +6,7 @@
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
+    <option name="autoResetColorScheme" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -14,16 +15,16 @@
     <option name="isContrastMode" value="true" />
     <option name="customListItemsSizeEnabled" value="true" />
     <option name="isHighContrast" value="true" />
+    <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="upperCaseButtons" value="false" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-53d3a599:17f868d575a:-8000" />
     <option name="version" value="6.16.2" />
     <option name="tabHighlightPosition" value="Left" />
-    <option name="codeAdditionsEnabled" value="false" />
     <option name="stripedToolWindowsEnabled" value="true" />
-    <option name="showWhatsNew" value="false" />
   </component>
 </application>
