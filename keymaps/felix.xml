@@ -1,4 +1,7 @@
 <keymap version="1" name="felix" parent="Mac OS X 10.5+">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
   <action id="ActivateProjectToolWindow" />
   <action id="ActivateRunToolWindow" />
   <action id="CloseAllEditors">
