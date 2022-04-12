@@ -28,6 +28,7 @@
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
+  <action id="EditorToggleCase" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
