@@ -4,7 +4,7 @@
     <property name="created">2022-03-14T13:02:18</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-04-18T10:09:58</property>
+    <property name="modified">2022-04-18T10:15:23</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <console-font>
@@ -1353,6 +1353,7 @@
     <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
       <value>
         <option name="FOREGROUND" value="6272a4" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
@@ -3234,6 +3235,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="79cbdc" />
+        <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
