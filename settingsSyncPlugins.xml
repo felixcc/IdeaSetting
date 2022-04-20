@@ -26,6 +26,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="JRebelPlugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="MavenRunHelper">
           <value>
             <PluginData>
