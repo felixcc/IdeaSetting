@@ -4,7 +4,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="todo" value="// TODO author by felix : " toReformat="false" toShortenFQNames="true">
+  <template name="todo" value="// TODO author by felix : " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
