@@ -5,6 +5,9 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="meta f1" />
+  </action>
   <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.Reload" />
   <action id="Diff.ShowDiff" />
@@ -113,6 +116,7 @@
   <action id="SendEOF" />
   <action id="ServiceView.GroupByContributor" />
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowErrorDescription" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
