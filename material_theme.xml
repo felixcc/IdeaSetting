@@ -15,7 +15,6 @@
     <option name="customListItemsSizeEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="showOverlays" value="false" />
     <option name="upperCaseButtons" value="false" />
@@ -23,7 +22,7 @@
     <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-53d3a599:17f868d575a:-8000" />
-    <option name="version" value="7.3.2" />
+    <option name="version" value="7.4.0" />
     <option name="tabHighlightPosition" value="Left" />
     <option name="codeAdditionsEnabled" value="false" />
     <option name="enforcedLanguageAdditions" value="true" />
