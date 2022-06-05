@@ -30,6 +30,7 @@
     <option name="tabHighlightPosition" value="Left" />
     <option name="codeAdditionsEnabled" value="false" />
     <option name="enforcedLanguageAdditions" value="true" />
+    <option name="expUIEnabled" value="true" />
     <option name="stripedToolWindowsEnabled" value="true" />
     <option name="showWhatsNew" value="false" />
   </component>
