@@ -4,6 +4,7 @@
     <option name="monochromeColor" value="546e7a" />
     <option name="accentColor" value="ff6666" />
     <option name="themedColor" value="bbbbbb" />
+    <option name="hasBigIcons" value="true" />
     <option name="isLowPowerMode" value="false" />
   </component>
 </application>
