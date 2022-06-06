@@ -7,6 +7,7 @@
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="accentScrollbars" value="false" />
+    <option name="autoResetColorScheme" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -29,7 +30,6 @@
     <option name="tabHighlightPosition" value="Left" />
     <option name="codeAdditionsEnabled" value="false" />
     <option name="enforcedLanguageAdditions" value="true" />
-    <option name="expUIEnabled" value="true" />
     <option name="stripedToolWindowsEnabled" value="true" />
     <option name="showWhatsNew" value="false" />
   </component>
