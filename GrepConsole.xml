@@ -1,27 +1,5 @@
 <application>
   <component name="GrepConsole">
-    <option name="grepHistory">
-      <list>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="upplus" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-      </list>
-    </option>
     <option name="profiles">
       <list>
         <Profile>
@@ -90,6 +68,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                       <option name="style">
                         <GrepStyle>
@@ -154,7 +133,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="id" value="1647229883958" />
+          <option name="id" value="1654440077357" />
           <option name="inputFilterGroups">
             <list>
               <GrepExpressionGroup>
@@ -179,6 +158,5 @@
         </Profile>
       </list>
     </option>
-    <option name="version" value="1" />
   </component>
 </application>
