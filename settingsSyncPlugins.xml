@@ -30,6 +30,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -80,7 +81,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -92,22 +92,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="cn.cloud.auto.restful.tool">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.java" />
-                  <option value="com.intellij.modules.platform" />
-                  <option value="com.intellij.properties" />
-                  <option value="org.jetbrains.kotlin" />
-                  <option value="org.jetbrains.plugins.yaml" />
-                </set>
-              </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -123,18 +107,6 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="com.baomidou.plugin.idea.mybatisx">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.java" />
-                </set>
-              </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -159,13 +131,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="com.codota.csp.intellij">
-          <value>
-            <PluginData>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -234,18 +199,6 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="com.linkkou.plugin.intellij.assistant.mybaitslog">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-              <option name="enabled" value="false" />
-            </PluginData>
-          </value>
-        </entry>
         <entry key="com.mallowigi">
           <value>
             <PluginData>
@@ -254,18 +207,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="com.tabnine.TabNine">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -306,19 +247,6 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="de.dm.intellij.maven-archetypes-catalog-plugin">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                  <option value="org.jetbrains.idea.maven" />
-                </set>
-              </option>
-              <option name="enabled" value="false" />
-            </PluginData>
-          </value>
-        </entry>
         <entry key="de.netnexus.camelcaseplugin">
           <value>
             <PluginData>
@@ -327,24 +255,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="dev.eltonsandre.intellij.spring.assistant.plugin">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.java" />
-                  <option value="com.intellij.modules.java" />
-                  <option value="com.intellij.modules.lang" />
-                  <option value="com.intellij.modules.platform" />
-                  <option value="com.intellij.properties" />
-                  <option value="org.jetbrains.kotlin" />
-                  <option value="org.jetbrains.plugins.yaml" />
-                </set>
-              </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -423,7 +333,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -435,7 +344,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
